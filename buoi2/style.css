@@ -1,6 +1,9 @@
-.thu{
-    display: flex;
-    /* padding: 20px; */
-    gap: 30px;
-    
+  .anh img {
+    /* width: 200px; */
+    /* border: 1px solid; */
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+
 }
